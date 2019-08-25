@@ -1,6 +1,6 @@
 $(document).ready(function() {
   $(".design").click(function() {
-    $(".designe").toggle("slow");
+    $(".dezine").toggle("slow");
   });
   $(".development").click(function() {
     $(".developments").toggle("slow");
