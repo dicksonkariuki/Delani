@@ -16,7 +16,7 @@
   font-family: Arial, Helvetica, sans-serif;
   color: whitesmoke;
   font-size: 50px;
-  padding-top: 30vh;
+  padding-top: 5vh;
   margin-left: 40%;
   font-weight: bold;
 }
@@ -25,8 +25,10 @@
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   color: white;
-  font-size: 50px;
   margin-left: 32%;
+}
+.Too {
+  font-size: 50px;
 }
 .amazing {
   color: whitesmoke;
@@ -96,27 +98,44 @@
   text-transform: uppercase;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
-  font-size: 15px;
+}
+.designe {
+  font-size: 16px;
+  padding-left: 5px;
+  padding-top: 2px;
 }
 .development {
   text-transform: uppercase;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
-  font-size: 15px;
+}
+.developments {
+  font-size: 16px;
+  margin-left: -20px;
+  padding-top: 2px;
 }
 .management {
   text-transform: uppercase;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
-  font-size: 15px;
   padding-right: 30px;
+}
+.productsm {
+  font-size: 16px;
+  margin-left: -50px;
+  padding-top: 2px;
 }
 .portfolio {
   text-align: center;
   text-transform: uppercase;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
-  font-size: 30px;
+}
+.portfolios {
+  padding-top: 60px;
+  margin-bottom: -25px;
+  font-size: 25px;
+  font-weight: bold;
 }
 
 #port {
@@ -126,4 +145,11 @@
 #port2 {
   width: 100%;
   margin: auto;
+}
+.contact {
+  background-image: url(../assets/c_image.jpg);
+  height: 100vh;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
 }
